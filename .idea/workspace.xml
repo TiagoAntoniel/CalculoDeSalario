@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26252533-dc4a-4f91-9669-c4c2c7ef9656" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculoDeSalario.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TiagoAntoniel"
+  }
+}]]></component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1725417470" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1725417469" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TiagoAntoniel/CalculoDeSalario.git",
+    "accountId": "e8130ff0-86bf-4519-a1d0-1e583ba9e82a"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/CadastroDeUsuario.java" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -49,6 +80,8 @@
     "Application.Aula01Introducao.executor": "Run",
     "Application.Aula02ExerciciosImpares.executor": "Run",
     "Application.Aula02TipoDeConta.executor": "Run",
+    "Application.Aula03Menu.executor": "Run",
+    "Application.Aula04ExercicioLogin.executor": "Debug",
     "Application.CadastroDeUsuario.executor": "Run",
     "Application.CondicionaisAula1.executor": "Run",
     "Application.DadosDoTeclado.executor": "Run",
@@ -62,11 +95,11 @@
     "Application.VerificaIdade.executor": "Run",
     "Application.aula01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula03Menu">
+  <component name="RunManager" selected="Application.Aula04ExercicioLogin">
     <configuration name="Aula01Introducao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LacosDeRepeticao.Aula01Introducao" />
       <module name="CalculoDeSalario" />
@@ -119,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="switchcase.aula01" />
+    <configuration name="Aula04ExercicioLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LacosDeRepeticao.Aula04ExercicioLogin" />
       <module name="CalculoDeSalario" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="switchcase.*" />
+          <option name="PATTERN" value="LacosDeRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula04ExercicioLogin" />
         <item itemvalue="Application.Aula03Menu" />
         <item itemvalue="Application.Aula02ExerciciosImpares" />
         <item itemvalue="Application.Aula01Introducao" />
         <item itemvalue="Application.Aula02TipoDeConta" />
-        <item itemvalue="Application.aula01" />
       </list>
     </recent_temporary>
   </component>
@@ -152,5 +185,16 @@
       <updated>1725205100393</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LacosDeRepeticao/Aula04ExercicioLogin.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
