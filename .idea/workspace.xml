@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26252533-dc4a-4f91-9669-c4c2c7ef9656" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CalculoDeSalario.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LogicaDeProgramacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LacosDeRepeticao/Aula01Introducao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LacosDeRepeticao/Aula01IntroducaoWhiles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,42 +76,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AlistamentoExercito.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula01Introducao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula02ExerciciosImpares.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula02TipoDeConta.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula03Menu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula04ExercicioLogin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula05DoWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CadastroDeUsuario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondicionaisAula1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DadosDoTeclado.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DiasDaSemana.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImparOuPar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ImpostoDeRenda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PorcentagemSalarioComIf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PorcentagemSalarioComIf2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Salario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TorneioDeNatacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificaIdade.executor&quot;: &quot;Run&quot;,
-    &quot;Application.aula01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlistamentoExercito.executor": "Run",
+    "Application.Aula01Introducao.executor": "Run",
+    "Application.Aula01IntroducaoFors.executor": "Debug",
+    "Application.Aula02ExerciciosImpares.executor": "Run",
+    "Application.Aula02TipoDeConta.executor": "Run",
+    "Application.Aula03Menu.executor": "Run",
+    "Application.Aula04ExercicioLogin.executor": "Run",
+    "Application.Aula05DoWhile.executor": "Run",
+    "Application.CadastroDeUsuario.executor": "Run",
+    "Application.CondicionaisAula1.executor": "Run",
+    "Application.DadosDoTeclado.executor": "Run",
+    "Application.DiasDaSemana.executor": "Run",
+    "Application.ImparOuPar.executor": "Run",
+    "Application.ImpostoDeRenda.executor": "Run",
+    "Application.PorcentagemSalarioComIf.executor": "Run",
+    "Application.PorcentagemSalarioComIf2.executor": "Run",
+    "Application.Salario.executor": "Run",
+    "Application.TorneioDeNatacao.executor": "Run",
+    "Application.VerificaIdade.executor": "Run",
+    "Application.aula01.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Curso ebac/estudos e projetos/CalculoDeSalario/LogicaDeProgramacao",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application.Aula05DoWhile">
-    <configuration name="Aula01Introducao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LacosDeRepeticao.Aula01Introducao" />
+}]]></component>
+  <component name="RunManager" selected="Application.Aula01IntroducaoFors">
+    <configuration name="Aula01IntroducaoFors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LacosDeRepeticao.fors.Aula01IntroducaoFors" />
       <module name="LogicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LacosDeRepeticao.*" />
+          <option name="PATTERN" value="LacosDeRepeticao.fors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula01IntroducaoFors" />
         <item itemvalue="Application.Aula05DoWhile" />
         <item itemvalue="Application.Aula04ExercicioLogin" />
         <item itemvalue="Application.Aula03Menu" />
         <item itemvalue="Application.Aula02ExerciciosImpares" />
-        <item itemvalue="Application.Aula01Introducao" />
       </list>
     </recent_temporary>
   </component>
