@@ -2,7 +2,7 @@ package LacosDeRepeticao.fors;
 
 import java.util.Scanner;
 
-public class Aula03ExercicoDorAlinhado {
+public class Aula03ExercicoforAlinhado {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Digite o valor a ser somado:");
