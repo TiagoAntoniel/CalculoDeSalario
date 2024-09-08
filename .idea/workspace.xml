@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26252533-dc4a-4f91-9669-c4c2c7ef9656" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/LacosDeRepeticao/fors/Aula03ExercicoDorAlinhado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LacosDeRepeticao/fors/Aula03ExercicoforAlinhado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +79,11 @@
     "Application.AlistamentoExercito.executor": "Run",
     "Application.Aula01Introducao.executor": "Run",
     "Application.Aula01IntroducaoFors.executor": "Debug",
+    "Application.Aula02ArraysComFor.executor": "Run",
     "Application.Aula02ExerciciosImpares.executor": "Run",
     "Application.Aula02Exercico01.executor": "Debug",
     "Application.Aula02TipoDeConta.executor": "Run",
+    "Application.Aula03ExerciciosArrays.executor": "Run",
     "Application.Aula03ExercicoDorAlinhado.executor": "Run",
     "Application.Aula03Menu.executor": "Run",
     "Application.Aula04ExercicioLogin.executor": "Run",
@@ -98,6 +100,7 @@
     "Application.TorneioDeNatacao.executor": "Run",
     "Application.VerificaIdade.executor": "Run",
     "Application.aula01.executor": "Run",
+    "Application.tes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -109,13 +112,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula03ExercicoDorAlinhado">
-    <configuration name="Aula01IntroducaoFors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LacosDeRepeticao.fors.Aula01IntroducaoFors" />
+  <component name="RunManager" selected="Application.Aula03ExerciciosArrays">
+    <configuration name="Aula02ArraysComFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Aula02ArraysComFor" />
       <module name="LogicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LacosDeRepeticao.fors.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,6 +139,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula03ExerciciosArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Aula03ExerciciosArrays" />
+      <module name="LogicaDeProgramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Aula03ExercicoDorAlinhado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LacosDeRepeticao.fors.Aula03ExercicoDorAlinhado" />
       <module name="LogicaDeProgramacao" />
@@ -149,25 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula04ExercicioLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LacosDeRepeticao.Aula04ExercicioLogin" />
+    <configuration name="tes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.tes" />
       <module name="LogicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LacosDeRepeticao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula05DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LacosDeRepeticao.Aula05DoWhile" />
-      <module name="LogicaDeProgramacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LacosDeRepeticao.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula03ExerciciosArrays" />
+        <item itemvalue="Application.tes" />
+        <item itemvalue="Application.Aula02ArraysComFor" />
         <item itemvalue="Application.Aula03ExercicoDorAlinhado" />
         <item itemvalue="Application.Aula02Exercico01" />
-        <item itemvalue="Application.Aula01IntroducaoFors" />
-        <item itemvalue="Application.Aula05DoWhile" />
-        <item itemvalue="Application.Aula04ExercicioLogin" />
       </list>
     </recent_temporary>
   </component>
