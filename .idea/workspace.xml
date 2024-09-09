@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26252533-dc4a-4f91-9669-c4c2c7ef9656" name="Changes" comment="teste">
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Aula002ArraysComForSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Aula002ArraysComForSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula002ArraysComForSimples">
+  <component name="RunManager" selected="Application.Aula02ArraysComFor">
     <configuration name="Aula002ArraysComForSimples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Aula002ArraysComForSimples" />
       <module name="LogicaDeProgramacao" />
@@ -182,8 +182,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aula002ArraysComForSimples" />
         <item itemvalue="Application.Aula02ArraysComFor" />
+        <item itemvalue="Application.Aula002ArraysComForSimples" />
         <item itemvalue="Application.Aula01IntroducaoArrays" />
         <item itemvalue="Application.Aula03ExerciciosArrays" />
         <item itemvalue="Application.tes" />

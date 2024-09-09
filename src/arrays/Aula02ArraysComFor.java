@@ -12,10 +12,10 @@ public class Aula02ArraysComFor {
         }
         double media = 0;
         for (int i = 0; i < notas.length; i++) {
-            media = media + notas[i];
+            media += notas[i];
             System.out.println("Nota " + (i + 1) + ": " + notas[i]);
         }
-        media = media / notas.length;
+        media /= notas.length;
         System.out.println("Media das notas: " + media);
     }
 }
