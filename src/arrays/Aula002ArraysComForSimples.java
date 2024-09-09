@@ -12,6 +12,10 @@ public class Aula002ArraysComForSimples {
             notas[i] = teclado.nextDouble();
             soma += notas[i];
         }
+        System.out.println("Notas Digitadas: ");
+        for (int i = 0; i < notas.length; i++) {
+            System.out.println("Nota " +(i + 1)+ " = "+ notas[i]);
+        }
         double media = soma / notas.length;
         System.out.println("Media das notas: " + media);
     }
