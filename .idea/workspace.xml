@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26252533-dc4a-4f91-9669-c4c2c7ef9656" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/src/arrays/Teste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/Aula002ArraysComForSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Aula002ArraysComForSimples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/Aula03ExerciciosArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Aula03ExerciciosArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +77,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AlistamentoExercito.executor": "Run",
+    "Application.Aula0003ExerciciosArraysCorrecao.executor": "Run",
     "Application.Aula002ArraysComForSimples.executor": "Run",
     "Application.Aula01Introducao.executor": "Run",
     "Application.Aula01IntroducaoArrays.executor": "Run",
@@ -118,9 +116,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Teste">
-    <configuration name="Aula002ArraysComForSimples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Aula002ArraysComForSimples" />
+  <component name="RunManager" selected="Application.Aula0003ExerciciosArraysCorrecao">
+    <configuration name="Aula0003ExerciciosArraysCorrecao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Aula0003ExerciciosArraysCorrecao" />
       <module name="LogicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula01IntroducaoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Aula01IntroducaoArrays" />
+    <configuration name="Aula002ArraysComForSimples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Aula002ArraysComForSimples" />
       <module name="LogicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -186,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula0003ExerciciosArraysCorrecao" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.Aula03ExerciciosArrays" />
         <item itemvalue="Application.Aula002ArraysComForSimples" />
         <item itemvalue="Application.Aula02ArraysComFor" />
-        <item itemvalue="Application.Aula01IntroducaoArrays" />
       </list>
     </recent_temporary>
   </component>
