@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26252533-dc4a-4f91-9669-c4c2c7ef9656" name="Changes" comment="">
+    <list default="true" id="26252533-dc4a-4f91-9669-c4c2c7ef9656" name="Changes" comment="teste">
+      <change afterPath="$PROJECT_DIR$/src/arrays/Aula002ArraysComForSimples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/Aula01IntroducaoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Aula01IntroducaoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/Aula02ArraysComFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Aula02ArraysComFor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,10 +79,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AlistamentoExercito.executor": "Run",
+    "Application.Aula002ArraysComForSimples.executor": "Run",
     "Application.Aula01Introducao.executor": "Run",
     "Application.Aula01IntroducaoArrays.executor": "Run",
     "Application.Aula01IntroducaoFors.executor": "Debug",
-    "Application.Aula02ArraysComFor.executor": "Debug",
+    "Application.Aula02ArraysComFor.executor": "Run",
     "Application.Aula02ExerciciosImpares.executor": "Run",
     "Application.Aula02Exercico01.executor": "Debug",
     "Application.Aula02TipoDeConta.executor": "Run",
@@ -114,7 +116,20 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula02ArraysComFor">
+  <component name="RunManager" selected="Application.Aula002ArraysComForSimples">
+    <configuration name="Aula002ArraysComForSimples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Aula002ArraysComForSimples" />
+      <module name="LogicaDeProgramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Aula01IntroducaoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Aula01IntroducaoArrays" />
       <module name="LogicaDeProgramacao" />
@@ -154,19 +169,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula03ExercicoDorAlinhado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LacosDeRepeticao.fors.Aula03ExercicoDorAlinhado" />
-      <module name="LogicaDeProgramacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LacosDeRepeticao.fors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="tes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.tes" />
       <module name="LogicaDeProgramacao" />
@@ -182,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula002ArraysComForSimples" />
         <item itemvalue="Application.Aula02ArraysComFor" />
         <item itemvalue="Application.Aula01IntroducaoArrays" />
         <item itemvalue="Application.Aula03ExerciciosArrays" />
         <item itemvalue="Application.tes" />
-        <item itemvalue="Application.Aula03ExercicoDorAlinhado" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +201,31 @@
       <option name="presentableId" value="Default" />
       <updated>1725205100393</updated>
     </task>
+    <task id="LOCAL-00001" summary="teste">
+      <option name="closed" value="true" />
+      <created>1725841219980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725841219980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
