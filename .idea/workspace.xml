@@ -84,6 +84,7 @@
     "Application.Aula01IntroducaoArrays.executor": "Run",
     "Application.Aula01IntroducaoFors.executor": "Debug",
     "Application.Aula02ArraysComFor.executor": "Run",
+    "Application.Aula02ExercicioArraysMultidimencionais.executor": "Run",
     "Application.Aula02ExerciciosImpares.executor": "Run",
     "Application.Aula02Exercico01.executor": "Debug",
     "Application.Aula02TipoDeConta.executor": "Run",
@@ -117,7 +118,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula01ArraysMultidimensionais">
+  <component name="RunManager" selected="Application.Aula02ExercicioArraysMultidimencionais">
     <configuration name="Aula0003ExerciciosArraysCorrecao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Aula0003ExerciciosArraysCorrecao" />
       <module name="LogicaDeProgramacao" />
@@ -131,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula002ArraysComForSimples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Aula002ArraysComForSimples" />
+    <configuration name="Aula01ArraysMultidimensionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Multidimensionais.Aula01ArraysMultidimensionais" />
       <module name="LogicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Arrays.Multidimensionais.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula01ArraysMultidimensionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Multidimensionais.Aula01ArraysMultidimensionais" />
+    <configuration name="Aula02ExercicioArraysMultidimencionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Multidimensionais.Aula02ExercicioArraysMultidimencionais" />
       <module name="LogicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -185,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula02ExercicioArraysMultidimencionais" />
         <item itemvalue="Application.Aula01ArraysMultidimensionais" />
         <item itemvalue="Application.Aula0003ExerciciosArraysCorrecao" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.Aula03ExerciciosArrays" />
-        <item itemvalue="Application.Aula002ArraysComForSimples" />
       </list>
     </recent_temporary>
   </component>
