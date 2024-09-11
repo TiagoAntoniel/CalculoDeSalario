@@ -19,7 +19,6 @@ public class Aula02ExercicioArraysMultidimencionais {
                     resultado *= arrayMult1[i][j];
                 }
             }
-
         }
         System.out.println(resultado);
     }
